@@ -1,0 +1,11 @@
+Rank,Drug_CUI,Score,Drug_name
+1,C0649350,0.32292,Rivastigmine
+2,C0056077,0.32292,Ubidecarenone
+3,C0073379,0.28704,Riluzole
+4,C0085217,0.25116,Lithium carbonate
+5,C0025242,0.21528,Memantine
+6,C0037494,0.1794,Sodium chloride
+7,C0073096,0.14352,Resveratrol
+8,C0022614,0.10764,Ketamine
+9,C0527316,0.07176,Donepezil
+10,C0023570,0.03588,Levodopa

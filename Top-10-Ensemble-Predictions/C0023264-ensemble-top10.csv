@@ -1,0 +1,11 @@
+Rank,Drug_CUI,Score,Drug_name
+1,C2983812,0.20817,Mirabegron
+2,C0025853,0.20817,Metoclopramide
+3,C0107994,0.18504,Cabergoline
+4,C0002598,0.16191,Amiodarone
+5,C0123163,0.13878,Idebenone
+6,C0008864,0.11565,Citrulline
+7,C0003596,0.09252,Apomorphine
+8,C0050393,0.06939,Acarbose
+9,C0039840,0.04626,Thiamine
+10,C0299792,0.02313,Aripiprazole

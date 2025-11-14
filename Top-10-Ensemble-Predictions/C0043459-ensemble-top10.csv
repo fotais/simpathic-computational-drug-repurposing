@@ -1,0 +1,11 @@
+Rank,Drug_CUI,Score,Drug_name
+1,C0055568,0.32292,Cholic Acid
+2,C0041485,0.32292,Tyrosine
+3,C2348308,0.28704,Doconexent
+4,C0048897,0.25116,Sapropterin
+5,C0024337,0.21528,L-Lysine
+6,C0034272,0.1794,Pyridoxine
+7,C0000981,0.14352,Acetazolamide
+8,C0024027,0.10764,Lovastatin
+9,C0556150,0.07176,Doconexent
+10,C0000545,0.03588,Icosapent

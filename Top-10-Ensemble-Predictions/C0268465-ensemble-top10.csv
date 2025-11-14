@@ -1,0 +1,11 @@
+Rank,Drug_CUI,Score,Drug_name
+1,C0048897,0.32292,Sapropterin
+2,C0017890,0.32292,Glycine
+3,C0041485,0.28704,Tyrosine
+4,C0000578,0.25116,Oxitriptan
+5,C0041249,0.21528,Tryptophan
+6,C0023570,0.1794,Levodopa
+7,C0016365,0.14352,Fluoxetine
+8,C0017797,0.10764,L-Glutamine
+9,C0003765,0.07176,Arginine
+10,C0023401,0.03588,Leucine

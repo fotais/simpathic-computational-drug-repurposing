@@ -1,0 +1,11 @@
+Rank,Drug_CUI,Score,Drug_name
+1,C0001927,0.32292,Salbutamol
+2,C0001041,0.32292,Acetylcholine
+3,C0014479,0.28704,Ephedrine
+4,C0034261,0.25116,Pyridostigmine
+5,C0023570,0.21528,Levodopa
+6,C0032952,0.1794,Prednisone
+7,C1700695,0.14352,Sugammadex
+8,C0027679,0.10764,Neostigmine
+9,C0209337,0.07176,Rocuronium
+10,C0066677,0.03588,Modafinil

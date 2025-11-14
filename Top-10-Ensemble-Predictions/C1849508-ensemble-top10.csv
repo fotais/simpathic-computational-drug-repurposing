@@ -1,0 +1,11 @@
+Rank,Drug_CUI,Score,Drug_name
+1,C0034272,0.32292,Pyridoxine
+2,C0026056,0.32292,Midazolam
+3,C0087163,0.28704,Levocarnitine
+4,C0035527,0.25116,Riboflavin
+5,C0006982,0.21528,Carbidopa
+6,C0031412,0.1794,Phenobarbital
+7,C0024337,0.14352,L-Lysine
+8,C0023413,0.10764,Leucovorin
+9,C0055568,0.07176,Cholic Acid
+10,C0023570,0.03588,Levodopa

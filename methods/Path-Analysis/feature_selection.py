@@ -5,7 +5,7 @@
 # 1. Mutual information with the target.
 # 2. Rare but high-signal features (mostly active in positives).
 
-# Running Command: python feature-selection.py path/to/train.csv path/to/test.csv [output.csv]
+# Running Command: python feature_selection.py path/to/train.csv path/to/test.csv [output.csv]
 
 import sys
 import pandas as pd
@@ -70,7 +70,7 @@ def supervised_feature_selection(
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("python feature-selection.py train.csv test.csv [output.csv]")
+        print("python feature_selection.py train.csv test.csv [output.csv]")
         sys.exit(1)
 
     train_csv = sys.argv[1]
